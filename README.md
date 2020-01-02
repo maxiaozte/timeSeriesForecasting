@@ -4,7 +4,8 @@
 1. Forecasting: Principles and practice. https://otexts.com/fpp2/
 ## 竞赛
 1. Kaggle: https://www.kaggle.com/c/web-traffic-time-series-forecasting/
-2. M Competitions: https://mofc.unic.ac.cy/  M4 Competitions的论文见 International Journal of Forecasting, Volume 36, Issue 1
+2. M Competitions: https://mofc.unic.ac.cy/    
+M4 Competitions的论文见 International Journal of Forecasting, Volume 36, Issue 1
 ## 准确率评价标准
 1. 均方误差(mean square error): MSE
 2. 均方根误差(root mean square error): RMSE
