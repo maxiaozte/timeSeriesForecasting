@@ -12,3 +12,11 @@ M4 Competitions的论文见 International Journal of Forecasting, Volume 36, Iss
 3. 平均绝对误差(mean absolute error): MAE
 4. 平均绝对百分比误差(mean absolute percentage error): MAPE
 5. 对称平均绝对百分比误差(symmetric mean absolute percentage error): SMAPE
+## 时间序列预测算法
+1. 随机游走算法
+2. 指数平滑算法类
+3. ARIMA
+4. 线性回归类
+5. 深度学习类
+6. 机器学习类
+7. 集成算法
