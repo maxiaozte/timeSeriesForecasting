@@ -21,3 +21,4 @@ M4 Competitions的论文见 International Journal of Forecasting, Volume 36, Iss
 5. 深度学习类
 6. 机器学习类
 7. 集成算法
+8. FB Prophet: https://facebook.github.io/prophet/
